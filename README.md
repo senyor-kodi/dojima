@@ -1,6 +1,6 @@
 # Dojima
 
-Dojima is an event-driven algorithmic trading library built on Python. It is a modified version of [QTPyLib](https://qtpylib.io/docs/latest/), a trading library for traditional finance via Interactive Brokers. Dojima, however, is specifically tailored for cryptocurrency trading. The library is designed to handle the "boring bits" in the background and let you focus on the fun part: the trading strategies.
+Dojima is an event-driven algorithmic trading library built on Python. It is a modified version of [QTPyLib](https://qtpylib.io/docs/latest/), a trading library for traditional finance via Interactive Brokers. Dojima, however, is specifically tailored for cryptocurrency trading. The library streamlines backend processes, allowing users to focus primarily on developing and implementing trading strategies.
 
 ## Features
 
