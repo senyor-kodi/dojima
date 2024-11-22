@@ -32,6 +32,15 @@ There are 3 main components to the library:
 
 While Hal and Algo are fully functional, their functionality can always be expanded and improved upon. An example strategy, an implementation of an exponential moving average (EMA) crossover, is provided under the strats folder. This strategy serves as a template for writing your own strategies.
 
+## Requirements
+
+- Python 3.8+
+- MySQL Server
+- RabbitMQ Server
+- CCXT library
+- aiomysql
+- aio-pika
+
 ## To-do
 
 - Incorporate backtesting and paper trading.
